@@ -16,7 +16,7 @@ class RotaryPositionalEmbeddings(nn.Module):
     This class implements Rotary Positional Embeddings (RoPE)
     proposed in https://arxiv.org/abs/2104.09864.
 
-    Reference implementation (used for correctness verfication)
+    Reference implementation (used for correctness verification)
     can be found here:
     https://github.com/meta-llama/llama/blob/main/llama/model.py#L80
 
